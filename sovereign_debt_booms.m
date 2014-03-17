@@ -1,5 +1,9 @@
 (* ::Package:: *)
 
+(* ::Text:: *)
+(*Mathematica 9 Code. *)
+
+
 (* ::Title:: *)
 (*Sovereign Debt Booms in Monetary Unions*)
 
@@ -13,7 +17,7 @@
 
 
 (* ::Text:: *)
-(*Note: This code has only been tested with Log utility. It may not work more generally. Tested with Mathematica 9.*)
+(*Note: This code has only been tested with Log utility.*)
 
 
 Block[{
